@@ -55,7 +55,7 @@ class HomeActivity extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Icon(Icons.notifications, color: Colors.white),
+                            Icon(Icons.menu, color: Colors.white),
 
                             Column(
                               children: [
@@ -68,7 +68,7 @@ class HomeActivity extends StatelessWidget {
                               ],
                             ),
 
-                            Icon(Icons.menu, color: Colors.white),
+                            Icon(Icons.notifications, color: Colors.white),
                           ],
                         ),
                       ),
